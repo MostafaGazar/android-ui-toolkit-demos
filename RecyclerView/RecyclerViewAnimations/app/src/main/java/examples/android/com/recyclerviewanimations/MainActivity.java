@@ -271,7 +271,7 @@ public class MainActivity extends AppCompatActivity {
 
         /**
          * Custom change animation. Fade to black on the container background, then back
-         * up to the new bg coolor. Meanwhile, the text rotates, switching along the way.
+         * up to the new bg color. Meanwhile, the text rotates, switching along the way.
          * If a new change animation occurs on an item that is currently animating
          * a change, we stop the previous change and start the new one where the old
          * one left off.
